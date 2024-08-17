@@ -1,0 +1,4 @@
+package exam
+
+class BloodGroupManagementSystem {
+}
